@@ -1,2 +1,2 @@
 # Todoapp
-TodoApp
+A simple Todoapp
